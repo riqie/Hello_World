@@ -1,2 +1,3 @@
-# Hello_World
- Meu primeiro repositório de versionamento, curso de Git e GitHub (Curso em Vídeo)).
+# Olá, Mundo!
+ Meu primeiro repositório de versionamento do curso de Git e GitHub (Curso em Vídeo).
+ Tudo bem?
